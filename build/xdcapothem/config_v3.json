@@ -50,7 +50,7 @@
             "type": "OpenAttestationIssuer"
           },
           "network": {
-            "chain": "ETH",
+            "chain": "XDC",
             "chainId": "51"
           }
         },
@@ -195,7 +195,7 @@
             "type": "OpenAttestationIssuer"
           },
           "network": {
-            "chain": "ETH",
+            "chain": "XDC",
             "chainId": "51"
           }
         },
@@ -667,7 +667,7 @@
             "type": "OpenAttestationIssuer"
           },
           "network": {
-            "chain": "ETH",
+            "chain": "XDC",
             "chainId": "51"
           }
         },
@@ -848,7 +848,7 @@
             "type": "OpenAttestationIssuer"
           },
           "network": {
-            "chain": "ETH",
+            "chain": "XDC",
             "chainId": "51"
           }
         },
