@@ -51,7 +51,7 @@
           },
           "network": {
             "chain": "ETH",
-            "chainId": "5"
+            "chainId": "51"
           }
         },
         "schema": {
@@ -196,7 +196,7 @@
           },
           "network": {
             "chain": "ETH",
-            "chainId": "5"
+            "chainId": "51"
           }
         },
         "schema": {
@@ -668,7 +668,7 @@
           },
           "network": {
             "chain": "ETH",
-            "chainId": "5"
+            "chainId": "51"
           }
         },
         "schema": {
@@ -849,7 +849,7 @@
           },
           "network": {
             "chain": "ETH",
-            "chainId": "5"
+            "chainId": "51"
           }
         },
         "schema": {
