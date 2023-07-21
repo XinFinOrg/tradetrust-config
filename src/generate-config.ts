@@ -17,20 +17,12 @@ const DIR = path.join(__dirname, "../build");
 // addresses exists as txt-records in respective domains
 const buildData = [
   {
-    chainId: "50" as CHAIN_ID,
-    documentStoreAddress: "0x93092C2B449712281008112870063fF439367C00",
-    tokenRegistryAddress: "0x072FB36B73a7f52A23ea53162583f78ba3Bc6DEa",
-    dnsVerifiable: "example.tradetrust.io",
-    dnsTransferableRecord: "example.tradetrust.io",
-    dnsDid: "example.tradetrust.io",
-  },
-  {
     chainId: "51" as CHAIN_ID,
-    documentStoreAddress: "0x93092C2B449712281008112870063fF439367C00",
-    tokenRegistryAddress: "0x072FB36B73a7f52A23ea53162583f78ba3Bc6DEa",
-    dnsVerifiable: "example.tradetrust.io",
-    dnsTransferableRecord: "example.tradetrust.io",
-    dnsDid: "example.tradetrust.io",
+    documentStoreAddress: "0x268852277C0eED5A9999B41b0FdbA0443De76475",
+    tokenRegistryAddress: "0x27B8b1cBDb771653C987bF4B3918B5462dE25246",
+    dnsVerifiable: "distinct-harlequin-blackbird.sandbox.openattestation.com",
+    dnsTransferableRecord: "distinct-harlequin-blackbird.sandbox.openattestation.com",
+    dnsDid: "distinct-harlequin-blackbird.sandbox.openattestation.com",
   },
   {
     chainId: "80001" as CHAIN_ID,
