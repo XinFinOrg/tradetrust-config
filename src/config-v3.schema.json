@@ -177,7 +177,7 @@
                 "properties": {
                   "chain": {
                     "type": "string",
-                    "enum": ["ETH", "MATIC"]
+                    "enum": ["ETH", "MATIC", "XDC"]
                   },
                   "chainId": {
                     "type": "string",
